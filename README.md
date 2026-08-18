@@ -47,4 +47,4 @@ liderança, estratégia e manipulação.
 Os testes completos, incluindo as versões dos prompts, respostas obtidas,
 problemas identificados e melhorias realizadas estão documentados em:
 
-➡️ [Ver Engenharia de Prompts e Cicatrizes](./engenharia-de-prompts/prompts-e-cicatrizes.md)
+➡️ [Ver Engenharia de Prompts e Cicatrizes](./prompts-e-cicatrizes.md)
