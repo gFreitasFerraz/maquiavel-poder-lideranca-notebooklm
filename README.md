@@ -38,7 +38,7 @@ https://brasilescola.uol.com.br/filosofia/maquiavel-seu-pensamento-politico.htm
 Fonte 4 - Resumo de As 48 leis do poder (Robert Greene)
 https://resumocast.com.br/resumo/124-as-48-leis-do-poder
 
-## 🧠 Engenharia de Prompts
+## 🧠 Engenharia de Prompts e Cicatrizes
 
 Durante o desenvolvimento do caderno temático, foram elaborados e testados
 diferentes prompts para explorar as ideias de Maquiavel sobre poder,
