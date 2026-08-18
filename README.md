@@ -47,4 +47,20 @@ liderança, estratégia e manipulação.
 Os testes completos, incluindo as versões dos prompts, respostas obtidas,
 problemas identificados e melhorias realizadas estão documentados em:
 
-➡️ [Ver Engenharia de Prompts e Cicatrizes](./prompts-e-cicatrizes.md)
+➡️ **[Ver Engenharia de Prompts e Cicatrizes](./prompts-e-cicatrizes.md)**
+
+## 📚 Miniguia de Estudos
+
+Como resultado da pesquisa realizada no NotebookLM, foi desenvolvido um **Miniguia de Estudos sobre Nicolau Maquiavel**, reunindo os principais conceitos e aprendizados sobre **poder, liderança, estratégia, influência e comportamento humano**.
+
+O material contém:
+
+* 📖 Resumo dos principais conceitos de *O Príncipe*;
+* 🧠 Glossário;
+* 🎯 Perguntas para revisão;
+* 🤖 Prompts reutilizáveis para estudos futuros.
+
+> O objetivo é apresentar uma visão crítica e contextualizada das ideias de Maquiavel, indo além da interpretação popular de que seu pensamento se resume à manipulação.
+
+📄 **[Acessar o Miniguia de Estudos](./miniguia.md)**
+
